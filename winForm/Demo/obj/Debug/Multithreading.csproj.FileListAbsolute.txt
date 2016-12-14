@@ -1,0 +1,12 @@
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Multithreading.Form1.resources
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Multithreading.csproj.GenerateResource.Cache
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\DG\Desktop\winFormDemo\Demo\Demo\obj\Debug\Demo.pdb
+D:\公司專案\GIT\winForm\Demo\bin\Debug\Demo.exe.config
+D:\公司專案\GIT\winForm\Demo\obj\Debug\Demo.exe
+D:\公司專案\GIT\winForm\Demo\obj\Debug\Demo.pdb
